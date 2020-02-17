@@ -35,3 +35,6 @@
   .navbar-light .navbar-toggler {
       border-color: transparent;
   }
+  li#dropdown:hover .dropdown-menu {
+    display: block;
+  }
